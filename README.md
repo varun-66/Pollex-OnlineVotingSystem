@@ -18,5 +18,5 @@ For Voter Login :-
 username = voter
 password = 1234
 
-# You can add new voters using an admin account.
-# Voter account provided above is just for sample login you can delete that account using Admin account.
+ You can add new voters using an admin account.
+ Voter account provided above is just for sample login you can delete that account using Admin account.
