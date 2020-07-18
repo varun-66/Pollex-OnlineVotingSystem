@@ -12,12 +12,12 @@ Create a New Database name as "onlinevotesystem" and then go to import section a
 Now you can access the database and Login using following Credentials.
 
 For Admin Login :-
-username = admin
+username = admin ;
 password = 1234
 
 
 For Voter Login :-
-username = voter
+username = voter ;
 password = 1234
 
  You can add new voters using an admin account.
