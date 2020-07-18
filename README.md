@@ -1,6 +1,8 @@
 # Pollex-OnlineVotingSystem
 
-** You Can access them by creating a local host using *XAMPP* and then extract the folder in *htdocs* folder already created in the xampp(wherever you have installed most of the cases student install xampp in C Drive. **
+Pollex is a web-development based voting system that will help you to manage your election effortlessly and reliably.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+You Can access them by creating a local host using *XAMPP* and then extract the folder in *htdocs* folder already created in the xampp(wherever you have installed most of the cases student install xampp in C Drive. 
 
 You can view this in any web browser(preferably:- Chrome), Before this dont forget to start Apache and MySQL in xampp-control panel 
 .
