@@ -1,6 +1,6 @@
-# Pollex-OnlineVotingSystem
+# Poll-scape OnlineVotingSystem
 
-Pollex is a web-development based voting system that will help you to manage your election effortlessly and reliably.
+Poll-scape is a web-development based voting system that will help you to manage your election effortlessly and reliably.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 You Can access them by creating a local host using *WAMP* and then extract the folder in *www* folder already created in the wampp(wherever you have installed most of the cases student install wampp in C Drive. 
 
